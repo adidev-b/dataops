@@ -1,2 +1,3 @@
-# demopyproject
-Practice and implement scenarios using git
+# Python Projects Repository
+
+1. Mapreduce Job for WordCount
