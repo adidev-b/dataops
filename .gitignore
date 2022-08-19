@@ -7,3 +7,5 @@
 /DataOps/developer_survey_2020/so_survey_2020.pdf
 /DataOps/developer_survey_2020/survey_results_public.csv
 /DataOps/developer_survey_2020/survey_results_schema.csv
+/.idea
+/.gitignore
