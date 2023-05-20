@@ -1,5 +1,6 @@
 # Python
 
 - Git Repo for my Python Projects
-- My learnings and experiments 
+- Pyspark Usecases and trials
+- AIML Usecases on sample datasets
 
