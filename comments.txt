@@ -1,4 +1,0 @@
-Author : Bibhu Panda
-Document : Comments for the python repository.
-
-1. Making commit one
